@@ -2,7 +2,7 @@
 
 ## Project Description:
 
-Will automate colls for you like this
+Will automate colls for you, so you do not have to type up the inputs.
 
 ## Running the Application
 
