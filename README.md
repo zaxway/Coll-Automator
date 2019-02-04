@@ -17,17 +17,17 @@ java collAutomator
 
 Enter the starting number for the inputs. <br />
 Starting Number: <br />
-0 
-Enter musical note digits for which you want to sequence on the coll in order
-Press the enter button when done: 
-12 64 43 23 23 12 43 12 32 43 43 23 12 43 12 42 53 53 23 43 32 53 23 12 53 23
-Here is your code!
-Copy and paste this to the coll: 
+0 <br />
+Enter musical note digits for which you want to sequence on the coll in order <br />
+Press the enter button when done: <br />
+12 64 43 23 23 12 43 12 32 43 43 23 12 43 12 42 53 53 23 43 32 53 23 12 53 23 <br />
+Here is your code!<br />
+Copy and paste this to the coll: <br />
 
 
-0, 12;
-1, 64;
-2, 43;
+0, 12;<br />
+1, 64;<br />
+2, 43;<br />
 3, 23;
 4, 23;
 5, 12;
