@@ -10,8 +10,8 @@ Will automate colls for you like this
 
 ## Running the Application
 
-javac collAutomator.java
-java collAutomator
+javac collAutomator.java <br />
+java collAutomator <br />
 
 ## Example Run
 
