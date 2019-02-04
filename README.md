@@ -3,10 +3,6 @@
 ## Project Description:
 
 Will automate colls for you like this
-0, 13;
-1, 14;
-2, 43;
-...
 
 ## Running the Application
 
