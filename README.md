@@ -15,8 +15,8 @@ java collAutomator
 
 ## Example Run
 
-Enter the starting number for the inputs.
-Starting Number: 
+Enter the starting number for the inputs. <br />
+Starting Number: <br />
 0 
 Enter musical note digits for which you want to sequence on the coll in order
 Press the enter button when done: 
